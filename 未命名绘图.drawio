@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T12:19:39.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="vbcuE-4vG28ntxjiK5Rc" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T12:27:46.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="P7tY9aYibmryI8v7tVg3" version="16.1.2" type="github">
   <diagram id="qh2XZvOGoz7b5zswJ_-e" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,24 @@
         </mxCell>
         <mxCell id="waokHs4_Jn7dDJYkCoTz-10" value="Magma" style="whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waokHs4_Jn7dDJYkCoTz-11" value="Mohist" style="whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waokHs4_Jn7dDJYkCoTz-12" value="Catserver" style="whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waokHs4_Jn7dDJYkCoTz-13" value="SpongeVanilla" style="whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waokHs4_Jn7dDJYkCoTz-14" value="Crucible" style="whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waokHs4_Jn7dDJYkCoTz-15" value="Spigot" style="whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="waokHs4_Jn7dDJYkCoTz-16" value="原版" style="whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
